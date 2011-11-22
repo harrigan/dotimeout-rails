@@ -9,6 +9,8 @@
 
 This is a gemified version of Ben Alman's jQuery doTimeout plugin. See http://benalman.com/projects/jquery-dotimeout-plugin for more details.
 
+[![Build Status](https://secure.travis-ci.org/harrigan/dotimeout-rails.png)](http://travis-ci.org/harrigan/dotimeout-rails)
+
 ## Instructions
 
 Add the following to your Gemfile:
