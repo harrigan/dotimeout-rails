@@ -4,7 +4,7 @@ require "dotimeout-rails/version"
 
 Gem::Specification.new do |s|
   s.name        = "dotimeout-rails"
-  s.version     = DotTimeoutRails::VERSION
+  s.version     = DoTimeoutRails::VERSION
   s.authors     = ["Martin Harrigan"]
   s.email       = ["martinharrigan@gmail.com"]
   s.homepage    = "http://github.com/harrigan/dotimeout-rails"

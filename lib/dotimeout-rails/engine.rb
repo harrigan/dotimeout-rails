@@ -1,4 +1,4 @@
-module DotTimeoutRails
+module DoTimeoutRails
   module Rails
     class Engine < ::Rails::Engine
     end
