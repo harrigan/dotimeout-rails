@@ -13,9 +13,11 @@ This is a gemified version of Ben Alman's jQuery doTimeout plugin. See http://be
 ## Instructions
 
 Add the following to your Gemfile:
+
 `gem "dotimeout-rails"`
 
-Then add the following to your application.js manifest:
+Then add the following to your application.js:
+
 `//= require dotimeout`
 
 Don't forget to run `bundle update` after upgrading to the latest gem version to ensure it's used by your Rails app.
