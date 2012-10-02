@@ -9,6 +9,7 @@
 This is a gemified version of Ben Alman's jQuery doTimeout plugin. See http://benalman.com/projects/jquery-dotimeout-plugin for more details.
 
 [![Build Status](https://secure.travis-ci.org/harrigan/dotimeout-rails.png)](http://travis-ci.org/harrigan/dotimeout-rails)
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/harrigan/dotimeout-rails)
 
 ## Instructions
 
