@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    = "http://github.com/harrigan/dotimeout-rails"
   s.summary     = %q{A gemified version of Ben Alman's jQuery doTimeout plugin.}
   s.description = %q{A gemified version of Ben Alman's jQuery doTimeout plugin.}
+  s.licenses    = ["MIT", "GPL-2"]
 
   s.rubyforge_project = "dotimeout-rails"
 
